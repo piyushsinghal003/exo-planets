@@ -12,8 +12,8 @@ simplest is to run main.go file directly by just cloning the repository.
 
 * Go to root of project.
 
-**Command ro run:**
-go run ./cmd/main.go
+**Command ro run**
+`go run ./cmd/main.go`
 
 It will start the golang server on port 8080.
 
